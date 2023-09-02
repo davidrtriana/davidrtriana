@@ -1,4 +1,4 @@
-![Header Image](https://imgur.com/a/shVYl9y)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/shVYl9y" data-context="false" ><a href="//imgur.com/a/shVYl9y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 - 🔭 I’m currently working on CoreCard Software Inc.
